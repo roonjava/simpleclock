@@ -1,0 +1,20 @@
+
+html, body{
+    margin-left: 20;
+    margin-right: 20;
+    background-color: lightgray;
+    
+}
+.container{
+    text-align: center;
+}
+
+.button{
+    text-align: right;
+    text-decoration: black;
+    text-shadow: 3px;
+}
+#time{
+    font-size: 300px;
+    text-align: center;
+}
